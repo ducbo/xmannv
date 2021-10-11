@@ -1,0 +1,1 @@
+wget --recursive --no-parent --reject "index.html*" --certificate=nginx-repo.crt --private-key=nginx-repo.key https://pkgs.nginx.com/plus/R25/
